@@ -1,7 +1,6 @@
 /*
-	*://blog.csdn.net/*
+    blog.csdn.net
 */
-
 .nodata .container {
     width: 100%;
     margin-right: 0%;
@@ -9,4 +8,13 @@
 
 .nodata .container main {
     width: 100%
+}
+
+
+
+/*
+    www.zhihu.com
+*/
+.Question-main {
+    width: 80%;
 }

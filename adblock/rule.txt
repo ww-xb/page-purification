@@ -22,3 +22,6 @@ baidu.com###content_right
 ! jianshu
 jianshu.com##._3Pnjry
 jianshu.com##._1CSgtu
+
+! zhihu
+www.zhihu.com##.Question-sideColumn.Question-sideColumn--sticky
