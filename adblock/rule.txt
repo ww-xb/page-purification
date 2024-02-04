@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: wwxb
+! Homepage: https://github.com/ww-xb/adblock_rule
+! Expires: 1 days
+! 使用方法：将 https://gist.githubusercontent.com/imba-tjd/2c9817233ac6798d4f2bfe057f781ca5/raw/IMBALIST.TXT 添加到uBO的规则列表中
+
+! CSDN
+blog.csdn.net###toolbarBox
+blog.csdn.net##.passport-login-container
+blog.csdn.net##.blog_container_aside
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.recommend-right
+blog.csdn.net##.recommend-box
+blog.csdn.net###recommendNps
+blog.csdn.net##.passport-login-tip-container.false
+
+
+! baidu
+baidu.com###content_right
+
+
+! jianshu
+jianshu.com##._3Pnjry
+jianshu.com##._1CSgtu
