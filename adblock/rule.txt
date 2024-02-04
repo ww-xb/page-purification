@@ -13,6 +13,7 @@ blog.csdn.net##.recommend-right
 blog.csdn.net##.recommend-box
 blog.csdn.net###recommendNps
 blog.csdn.net##.passport-login-tip-container
+blog.csdn.net##.tool-active-list
 
 
 ! baidu
