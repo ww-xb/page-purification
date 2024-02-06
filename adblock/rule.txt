@@ -26,3 +26,7 @@ jianshu.com##._1CSgtu
 
 ! zhihu
 www.zhihu.com##.Question-sideColumn.Question-sideColumn--sticky
+
+! leetcode
+||leetcode-cn.com
+||leetcode.cn
