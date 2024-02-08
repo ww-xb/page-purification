@@ -3,11 +3,16 @@
 */
 .nodata .container {
     width: 100%;
-    margin-right: 0%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
 .nodata .container main {
     width: 100%
+}
+
+main {
+    max-width: 100%
 }
 
 
