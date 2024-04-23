@@ -1,22 +1,18 @@
+@-moz-document domain("blog.csdn.net") {
 /*
-    blog.csdn.net
+	blog.csdn.net
 */
 .nodata .container {
     width: 100%;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 0%;
 }
 
 .nodata .container main {
     width: 100%
 }
-
-main {
-    max-width: 100%
 }
 
-
-
+@-moz-document domain("www.zhihu.com") {
 /*
     www.zhihu.com
 */
@@ -26,4 +22,5 @@ main {
 
 .Question-mainColumn {
     width: 100%;
+}
 }
