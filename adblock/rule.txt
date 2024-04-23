@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: wwxb
-! Homepage: https://github.com/ww-xb/adblock_rule
+! Homepage: https://github.com/ww-xb/page-purification
 ! Expires: 1 days
-! 使用方法：将 https://gist.githubusercontent.com/imba-tjd/2c9817233ac6798d4f2bfe057f781ca5/raw/IMBALIST.TXT 添加到uBO的规则列表中
+! 使用方法：将 https://raw.githubusercontent.com/ww-xb/page-purification/main/adblock/rule.txt 添加到Adblcok Plus的规则列表中
 
 ! CSDN
 blog.csdn.net###toolbarBox
